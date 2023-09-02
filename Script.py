@@ -10,14 +10,14 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Lɪʙʀᴀʀʏ: <a href='https://telegram.me/Animee_4u'>ANIMEE 4U</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href=''>JAPANESE & ENGLISH</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://telegram.me/Animee_4u'>ANIMEE 4U</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/Movies_arena_4u'>MOVIES ARENA 4U</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://telegram.me/Movies_arena_4u'>MOVIES ARENA 4U</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 - ꜱᴏᴜʀᴄᴇ - <a href="">MOVIES ARENA 4U</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/Movies_arena_4u">MOVIES ARENA 4U</a></b>"""
+- <a href="https://telegram.me/Movies_arena_4u">MOVIES ARENA 4U</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -38,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<b>[Button Text](buttonurl:https://t.me/Movies_arena_4u)</b>
+<b>[Button Text](buttonurl:https://telegram.me/Movies_arena_4u)</b>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -195,7 +195,7 @@ Nᴀᴍᴇ - {}"""
 <b>
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @ᴀɴɪᴍᴇᴇ_4u
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/+u7unc2FYQ7E1YTll
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://telegram.me/+u7unc2FYQ7E1YTll
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
