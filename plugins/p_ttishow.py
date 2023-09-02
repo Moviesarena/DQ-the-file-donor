@@ -37,7 +37,9 @@ async def save_group(bot, message):
                 pass
             await bot.leave_chat(message.chat.id)
             return
-        buttons = [[
+        buttons = [[                                                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+u7unc2FYQ7E1YTll"),
+                                                                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/Animee_4u")
+                                                                        ],[
                     InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Animee_4u")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
@@ -58,6 +60,9 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
+                                                                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+u7unc2FYQ7E1YTll"),
+                                                                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/Animee_4u")
+                                                                         ],[
                                                                            InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Animee_4u")
                                                                          ]]
                                                  ),
