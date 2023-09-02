@@ -21,8 +21,8 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/6a0726f79acd8300e9a04.jpg https://telegra.ph/file/68289fefb76dbc43b766d.jpg https://telegra.ph/file/0caad29c0cf91c23fb1b6.jpg https://telegra.ph/file/8c34c755dd16581c1c6b5.jpg https://telegra.ph/file/365e35b554e5a3ea83857.jpg https://telegra.ph/file/07f185825c5b7bfd6fbfb.jpg https://telegra.ph/file/85f95494565a762edb3e7.jpg https://telegra.ph/file/708a1d6ce805fcc6a46d0.jpg https://telegra.ph/file/d799c1a964f211028cc97.jpg https://telegra.ph/file/b987425b80bca0cf45c7e.jpg https://telegra.ph/file/2a8b3779760289b76de24.jpg https://telegra.ph/file/47961be968719b3e24cf0.jpg https://telegra.ph/file/2e127b0f6b1810d733c09.jpg https://telegra.ph/file/281b18770a43a29120252.jpg https://telegra.ph/file/2086dd2aa8382e758a599.jpg https://telegra.ph/file/fcc849db4bf5c517f0f8d.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/46443096bc6895c74a716.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/f4504ec87a7e140c31db1.jpg https://telegra.ph/file/426afdfb6dbe2eda239a6.gif https://telegra.ph/file/37984179d14436e4106b3.jpg https://telegra.ph/file/82507b0c639b86897b5ea.jpg https://telegra.ph/file/b33824f2f87f030b9912a.jpg https://telegra.ph/file/e4a639cf5981d1124f01d.jpg https://telegra.ph/file/20b2b1741ef03421a31e2.jpg https://telegra.ph/file/1d8bfbcb8fce22b674044.jpg https://telegra.ph/file/75d3b2834932c536a96a0.jpg https://telegra.ph/file/b27df166d116499e3cbcf.jpg https://wallpaperaccess.com/full/466433.jpg https://1.bp.blogspot.com/-e2incq0wSAs/XIgDPqZNM9I/AAAAAAAAAcI/8zFhWVSiR6Qww4m7mZqBNkVDl2M1Fd61QCKgBGAs/w5120/sasuke-naruto-uhdpaper.com-4K-48.jpg https://wallpapers-hub.art/wallpaper-images/152558.jpg https://w0.peakpx.com/wallpaper/329/237/HD-wallpaper-madara-evil-naruto-reanimated.jpg https://w0.peakpx.com/wallpaper/325/422/HD-wallpaper-one-piece-super-eustass-kid-kid-killer-law-luffy-monkey-d-luffy-one-piece-roronoa-zoro-trafalgar-d-law-zoro.jpg https://wallpaperaccess.com/full/324142.jpg https://wallpaper.dog/large/17002229.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://i.pinimg.com/736x/f6/79/12/f6791255d2b071c16fbd08513510f02e.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a1b9.jpg")
 
@@ -43,7 +43,7 @@ NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
+DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
@@ -58,11 +58,11 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+GOFte-Rz2tcxODg1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+mCMdCb_ymAowZmNl')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+u7unc2FYQ7E1YTll')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Animee_4u')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'DQ_The_File_Donor_Support')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+u7unc2FYQ7E1YTll')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
